@@ -59,11 +59,11 @@ I also run things on a Hostinger VPS, self-hosted behind Traefik.
 <div align="center">
 
 <a href="https://github.com/cheeyuenhow1988">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cheeyuenhow1988&show_icons=true&theme=tokyonight&hide_border=true" alt="Jimmy's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cheeyuenhow1988&show_icons=true&theme=tokyonight&hide_border=true" alt="Jimmy's GitHub stats" />
 </a>
 
 <a href="https://github.com/cheeyuenhow1988">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheeyuenhow1988&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cheeyuenhow1988&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </a>
 
 <br />
